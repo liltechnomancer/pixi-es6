@@ -1,0 +1,6 @@
+{
+  "presets": ["env", "stage-3"],
+  "plugins": [
+    "babel-plugin-transform-object-rest-spread"
+  ]
+}
